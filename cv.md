@@ -7,6 +7,7 @@
 - **Email address:** g.v.fedorenko@yandex.ru
 - **Phone number:** +7-953-318-25-25
 - **Telegram:** [@FedGregory](https://t.me/FedGregory)
+- **Discord rs-school:** Grigorii Fedorenko (@GregFedy)
 ---
 ## Summary
 
@@ -46,7 +47,7 @@ function multiply(a, b){
 - Educational group project ["YamDB"](https://github.com/GregFedy/yamdb_final) collects reviews (Review) of users on works (Titles). The works are divided into categories: "Books", "Films", "Music". The list of categories (Category) can be expanded (for example, you can add the category "Fine Arts" or "Jewellery"). The works themselves are not stored in YaMDb; you cannot watch a movie or listen to music here. In each category there are works: books, films or music. For example, in the category "Books" there may be works "Winnie the Pooh and All-All-All" and "The Martian Chronicles", and in the category "Music" - the song "Now" by the group "Insects" and the second suite of Bach. 
 A work can be assigned a genre (Genre) from the list of preset ones (for example, "Fairy Tale", "Rock" or "Arthouse"). New genres can only be created by the administrator.
 Grateful or indignant users leave text reviews (Review) for the works and rate the work in the range from one to ten (an integer); from user ratings, an average rating of the work is formed - rating (integer). A user can leave only one review per work.
-- ["Bot-assistant"](https://github.com/GregFedy/homework_bot). A Telegram bot that accesses the Praktikum.Homework service API and finds out the status of your homework: whether your homework was reviewed, whether it was checked, and if it was checked, then the reviewer accepted it or returned it for revision.
+- Educational project ["Bot-assistant"](https://github.com/GregFedy/homework_bot). A Telegram bot that accesses the Praktikum.Homework service API and finds out the status of your homework: whether your homework was reviewed, whether it was checked, and if it was checked, then the reviewer accepted it or returned it for revision.
 ---
 ## Education
 
