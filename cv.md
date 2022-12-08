@@ -8,7 +8,9 @@
 - **Phone number:** +7-953-318-25-25
 - **Telegram:** [@FedGregory](https://t.me/FedGregory)
 - **Discord rs-school:** Grigorii Fedorenko (@GregFedy)
+
 ---
+
 ## Summary
 
 My whole life is inextricably linked with the computer and computer technology. In a professional environment, I had to master programs for 3D modeling, 2D drawings, writing and designing technological documentation. For my hobbies, I used programs for photo processing and video editing. And now I want to try myself as a web developer. In my free time, I study something new in this field.
@@ -19,6 +21,7 @@ My whole life is inextricably linked with the computer and computer technology. 
    - Eager to learn new things
    - Critical thinking
    - Communication skills
+
 ---
 
 ## Skills
@@ -31,6 +34,7 @@ My whole life is inextricably linked with the computer and computer technology. 
 - **OS:** Linux (Ubuntu), MS Windows
 - **IDE:** Visual Studio Code, PyCharm
 - **Web Servers:** Nginx
+
 ---
 
 ## Code example
@@ -39,6 +43,7 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
 ---
 
 ## Work experience
@@ -48,7 +53,9 @@ function multiply(a, b){
 A work can be assigned a genre (Genre) from the list of preset ones (for example, "Fairy Tale", "Rock" or "Arthouse"). New genres can only be created by the administrator.
 Grateful or indignant users leave text reviews (Review) for the works and rate the work in the range from one to ten (an integer); from user ratings, an average rating of the work is formed - rating (integer). A user can leave only one review per work.
 - Educational project ["Bot-assistant"](https://github.com/GregFedy/homework_bot). A Telegram bot that accesses the Praktikum.Homework service API and finds out the status of your homework: whether your homework was reviewed, whether it was checked, and if it was checked, then the reviewer accepted it or returned it for revision.
+
 ---
+
 ## Education
 
 - **The Bauman Moscow State Technical University** (Kaluga Branch):
@@ -59,7 +66,9 @@ Grateful or indignant users leave text reviews (Review) for the works and rate t
     - Python Backend-Developer training course
 - **RS School**:
     - JavaScript/Front-end. Stage 0 (**in progress**)
+
 ---
+
 ## Languages
 
 - **Russian** - native speaker
