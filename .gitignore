@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # stylistic files
-.editoreconfig
+.editorconfig
